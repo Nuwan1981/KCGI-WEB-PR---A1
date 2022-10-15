@@ -1,0 +1,70 @@
+<!DOCTYPE html> 
+<html>
+ <head>
+  <title> Self-introduction </title>
+</head>
+
+<body bgcolor="#E8DAEF">
+
+<img src="Top banner.jpg" width="1500" height="100" />
+
+  <h1><i>Konnichiwa</i> </h2>
+    
+    <h2>Welcome to my profile</h2>
+	
+    <img src="my photo.jpeg" width="150" height="200" />
+  
+     <p> My name is <b> Nuwan Dassanayake </b>. I am a Sri Lankan student living in Kyoto following my Masters' course at <a href="https://www.kcg.edu"> The Kyoto University of Graduate Studies for Informatics </a>. </p>
+	 <p> I am also an experienced Finance Manager with organization skills and a devotion to customer service. Specialized in Finance sector having 11+ years of experience in Micro Finance, self-employments, helping to develop business, Documentation, Office administration & Customer service.</p>
+
+<h2> Academic Record </h2>
+   <ul>
+    <li> 2022 : Msc in Information Technology (Currently following) - The Kyoto University of Graduate Studies for Informatics </li>
+    <li> 2011 : Bachelors Degree in Business Management -University of Kelaniya-Sri Lanka </li>
+    <li> 2006 : Foundation -The Institute of Chartered Accountants of Sri Lanka </li>
+  </ul>
+  
+  <h2> Career Summary</h2>
+   <ol>
+    <li> 2003(Feb) - 2004(Feb) : Bank Cashier - Peoples Bank </li>
+    <li> 2007(Apr) - 2008(March) : Executive - Union Assurance PLC </li>
+    <li> 2011(Aug) - 2014(Dec)  : Assistant Finance Manager-Crystal Grameen (PVT) LTD </li>
+    <li> 2015(Jan) - 2022(March) : Finance Manager-Crystal Grameen (PVT) LTD </li>
+  </ol>
+  
+ <h2>Awards & Recognition</h2>
+   <ul>
+    <li>Award of colours INSIGNIA</li>
+    <li>SLUSA AWARDS</li>
+  </ul>
+
+    <h2> Highlights </h2>
+      <ul>
+       <li><b>Skills</b>
+	     <ul>
+		    <li> Leadership </li>
+			<li> Teamwork </li>
+			<li> Innovative </li>
+			<li> Analytics </li>
+		 </ul>
+	   <li><b>Interests</b></li>
+	   	 <ul>
+		    <li> Travel & Culture </li>
+   			<li> Nature & Wildlife </li>
+			<li> Art & Music </li>
+
+		 </ul>
+    </ul>
+   
+  <h2> Contact Me </h2>
+   <ul>
+    <li> Email : <a href="mailto:nuwanrdassanayake@gmail.com"> nuwanrdassanayake@gmail.com </a> </li>
+    <li> Mobile Number : +81-804494113 (Available in Line & Whatsapp) </li>
+    <li> Address : KYOTO-SHI, KAMIGYO-KU, KARASUMA-CHO, SENBON-DORI, ICHIJO-DORI, 363, JUNESU-ICHIJO, 211, Japan </li>
+  </ul>
+  
+  <img src="bottom banner.jpg" width="1500" height="100" />
+  
+ </body>
+
+</html> 
